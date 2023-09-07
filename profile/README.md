@@ -3,4 +3,4 @@ Coding platformed developed by Asandei Stefan-Alexandru as part of the InfoEduca
 Contributors:
 
 - Asandei Stefan-Alexandru: main contributor (website, exec, ctf server)
-- Radu Mihai-Alexandru: landing & home pages design + CTF Challenges
+- Radu Mihai-Alexandru: frontend rework + CTF Challenges
